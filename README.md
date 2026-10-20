@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Null Pointers** · Team ID `VTU-QFF-HC-0082` · Tier `Both`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Null Pointers)
+[⬆ Back to Top](#null-pointers)
 
 </div>
